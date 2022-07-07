@@ -9,6 +9,13 @@
   --spacing-xxl: 64px;
   --width-container: 1200px;
 }
+::-moz-selection {
+  background: #bb0000;
+}
+
+::selection {
+  background: ##bb0000;
+}
 body {
   background-color: #000;
   color: #fff;
