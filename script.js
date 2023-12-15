@@ -43,5 +43,5 @@ const onScroll = () => {
 document.addEventListener("DOMContentLoaded", init, false);
 
 function copy() {
-  navigator.clipboard.writeText("bxbi442@gmail.com");
+  navigator.clipboard.writeText("me@bxbi.dev");
 }
